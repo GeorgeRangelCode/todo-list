@@ -10,6 +10,8 @@ Lista de tareas usando React y Redux.
 
 ![Captura informe de pruebas unitararias de la app](./.readme-static/screenshot-report-test.png)
 
+[Ver la aplicación en todo-list-sepia.vercel.app](todo-list-sepia.vercel.app)
+
 ## ¿Cómo funciona?
 
 Requiere Node.JS > 10
