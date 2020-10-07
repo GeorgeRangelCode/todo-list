@@ -1,0 +1,21 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Header should render the Header component 1`] = `
+<div
+  class="test-classname"
+>
+  <div
+    class="header__container"
+  >
+    <nav
+      class="navbar"
+    >
+      <span
+        class="header__span"
+      >
+        Lista de tareas
+      </span>
+    </nav>
+  </div>
+</div>
+`;
